@@ -1,0 +1,1 @@
+export const GOOGLE_API_GEOLOCATION = 'https://maps.googleapis.com/maps/api/geocode';

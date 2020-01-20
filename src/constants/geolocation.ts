@@ -1,0 +1,1 @@
+export const STATE = 'administrative_area_level_1';
